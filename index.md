@@ -34,7 +34,7 @@ $ ssh cs15lwi23___@ieng6.ucsd.edu
 Instead of putting ___ you should put your specific code
 
 Put some commands such as:
-<img src="Terminal.png"/>
+<img src="Terminal.png" height=200px/>
 
 
 

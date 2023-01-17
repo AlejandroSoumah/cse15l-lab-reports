@@ -35,6 +35,10 @@ Instead of putting ___ you should put your specific code
 
 Put some commands such as:
 <img src="Terminal.png"/>
+
+
+
+
 To check it works
 
 Then put your password of the CSE15L and you are set

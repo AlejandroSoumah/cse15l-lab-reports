@@ -10,7 +10,7 @@ Put your username and student ID
  <img src="csescren.png"/>
  
 <h2>Step 1 - Download Visual Studio </h2>
-To Download Visual Studio go to the website https://code.visualstudio.com/
+To Download Visual Studio go to the website <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>
 Follow the steps and download it and install it for your specific operating system
 
 The website looks like: 

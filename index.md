@@ -36,7 +36,7 @@ Instead of putting ___ you should put your specific code
 Put some commands such as:
 
 
-<img src="Terminal.png" height=200px/>
+<img src="vcode_img.png" height=200px/>
 
 
 

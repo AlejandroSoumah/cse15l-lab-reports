@@ -51,5 +51,5 @@ Then put your password of the CSE15L and you are set
 <li> cd --> To move from file to file</li>
  <li> ls --> To check file locations</li>
  <li>sudo --> Perform tasks that require administrative or root permission</li>
-</ul
+</ul>
 

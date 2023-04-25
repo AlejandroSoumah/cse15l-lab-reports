@@ -20,12 +20,13 @@ The website looks like:
 <h3>Windows</h3>
 In Windows you should Install GIT
 
-The link is https://gitforwindows.org/ 
+The link is <a href="https://gitforwindows.org/">https://code.visualstudio.com/</a>
 
 <h3>Mac</h3>
 In Mac or Linux that is not necessary
 
 <h2>Step 3 - Connect to the remote server</h2>
+Connecting to a remote server is operating in a server, the changes made will be made inside the remote server
 In order to connect to the remote server you should put the following command: 
 
 ```
@@ -44,3 +45,11 @@ Put some commands such as:
 To check it works
 
 Then put your password of the CSE15L and you are set
+
+<h2>Step 4 -Trying some commands</h2>
+<ul>
+<li> -cd --> To move from file to file</li>
+ <li> -ls --> To check file locations</li>
+ <li>- sudo --> Perform tasks that require administrative or root permission</li>
+</ul
+

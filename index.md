@@ -14,7 +14,7 @@ To Download Visual Studio go to the website <a href="https://code.visualstudio.c
 Follow the steps and download it and install it for your specific operating system
 
 The website looks like: 
-<img src="vs_studio.png"/>
+<img src="vcode_img.png"/>
 <h2>Step 2 - Connect to Remote System</h2>
 
 <h3>Windows</h3>
